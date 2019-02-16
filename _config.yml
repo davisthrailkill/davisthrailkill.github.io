@@ -1,35 +1,9 @@
 theme: jekyll-theme-minimal
 title: My Personal Site
+name: Davis Thrailkill
+bio: Aspiring Data Scientist
+twitter:
+  username: d_thrailkill
+linkedin:
+  username: davis-thrailkill-bb262765
 Description: A place for me to share my data science projects.
-
-# Site Author
-author:
-  name             : "Davis Thrailkill"
-  avatar           :
-  bio              : "Aspiring Healthcare Data Scientist"
-  location         : "Nashville"
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : davisthrailkill
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : davis-thrailkill-bb262765
-  pinterest        :
-  soundcloud       :
-  stackoverflow    :
-  steam            :
-  tumblr           :
-  twitter          : d_thrailkill
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : 
