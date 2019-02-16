@@ -1,8 +1,3 @@
----
-layout: home
-author_profile: true
----
-
 # Latest Posts
 **[Social Determinants Shiny App](/posts/social_determinants.md)**
 
