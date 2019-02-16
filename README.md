@@ -1,2 +1,2 @@
 # Latest Posts
-[Social Determinants Shiny App](social_determinants.md)
+[Social Determinants Shiny App](/posts/social_determinants.md)
