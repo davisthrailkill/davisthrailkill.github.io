@@ -1,9 +1,23 @@
 theme: jekyll-theme-minimal
 title: My Personal Site
-name: Davis Thrailkill
-bio: Aspiring Data Scientist
-twitter:
-  username: d_thrailkill
-linkedin:
-  username: davis-thrailkill-bb262765
 Description: A place for me to share my data science projects.
+
+author:
+  name             : "Davis Thrailkill"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Aspiring Healthcare Data Scientist"
+  location         : "Nashville, TN"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:davis.thrailkill@gmail.com
+    #- #label: "Website"
+      #icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/d_thrailkill"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/davisthrailkill"
