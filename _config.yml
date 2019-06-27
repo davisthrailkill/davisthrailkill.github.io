@@ -1,11 +1,11 @@
 theme: jekyll-theme-minimal
 title: My Personal Site
 Description: A place for me to share my data science projects.
-logo: assets/Davis_Headshot.JPG
+logo: assets/img/Davis_Headshot.JPG
 
 author:
   name             : "Davis Thrailkill"
-  avatar           : "assets/Davis_Headshot.JPG"
+  avatar           : "assets/img/Davis_Headshot.JPG"
   bio              : "Healthcare Data Scientist"
   location         : "Nashville, TN"
   email            :
