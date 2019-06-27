@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 ### Social Determinants of Health Shiny App
 The United States spends more money on healthcare services than any other country in the world. The Journal of the American Medical Association published a study in 2016 that compared the United States with the 10 highest-income countries in the world. In fact,
 - the U.S. spends nearly 18% of its GDP on healthcare services while the next highest country, Switzerland, spends about 12.4%;
