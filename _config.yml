@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 title: My Personal Site
 Description: A place for me to share my data science projects.
 logo: _assets/Davis_Headshot.JPG
