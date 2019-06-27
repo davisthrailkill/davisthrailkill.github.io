@@ -13,14 +13,14 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: https://twitter.com/davisthrailkill
-    github:  https://github.com/davisthrailkill
+    twitter: davisthrailkill
+    github:  davisthrailkill
     # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: https://www.linkedin.com/in/davis-thrailkill-bb262765/
+    linkedin: davis-thrailkill-bb262765/
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
