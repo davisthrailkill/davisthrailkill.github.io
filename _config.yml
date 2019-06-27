@@ -1,24 +1,49 @@
-theme: jekyll-theme-minimal
-title: My Personal Site
-Description: A place for me to share my data science projects.
-logo: /assets/img/Davis_Headshot.JPG
+title: Data Science with Davis
+author: Davis Thrailkill
+email: davis.thrailkill@gmail.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  This is a place where I show off my data science projects and explore
+  topics that I am interested in.
+show_excerpts: false # set to true to show excerpts on the homepage
 
-author:
-  name             : "Davis Thrailkill"
-  avatar           : # "/assets/img/Davis_Headshot.JPG"
-  bio              : "Healthcare Data Scientist"
-  location         : "Nashville, TN"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:davis.thrailkill@gmail.com
-    #- #label: "Website"
-      #icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/d_thrailkill"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/davisthrailkill"
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: https://twitter.com/davisthrailkill
+    github:  https://github.com/davisthrailkill
+    # rss: rss
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    linkedin: https://www.linkedin.com/in/davis-thrailkill-bb262765/
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
