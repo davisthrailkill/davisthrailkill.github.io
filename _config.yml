@@ -5,7 +5,7 @@ logo: /assets/img/Davis_Headshot.JPG
 
 author:
   name             : "Davis Thrailkill"
-  avatar           : "/assets/img/Davis_Headshot.JPG"
+  avatar           : # "/assets/img/Davis_Headshot.JPG"
   bio              : "Healthcare Data Scientist"
   location         : "Nashville, TN"
   email            :
