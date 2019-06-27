@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 title: My Personal Site
 Description: A place for me to share my data science projects.
 logo: /assets/img/Davis_Headshot.JPG
+show_downloads: true
 
 author:
   name             : "Davis Thrailkill"
