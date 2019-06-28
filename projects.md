@@ -4,4 +4,5 @@ title: Projects
 permalink: /projects/
 ---
 
-This will be a page to host links and descriptions to my projects.
+* [Predicting Hospital Readmissions for Patients with Diabetes](https://github.com/davisthrailkill/diabetes_readmissions)
+* [Social Determinants of Health Shiny Dashboard](https://davisthrailkill.shinyapps.io/social_determinants_app/)
